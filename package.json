@@ -10,7 +10,8 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
-    "prepare": "husky"
+    "prepare": "husky",
+    "lint-staged": "lint-staged"
   },
   "dependencies": {
     "@nuxt/eslint": "^1.9.0",
