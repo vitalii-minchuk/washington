@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <ClientOnly>
+    <VueFlow />
+  </ClientOnly>
 </template>
