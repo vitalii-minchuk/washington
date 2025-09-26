@@ -1,8 +1,6 @@
-# Washington
+# Task Vue Flow
 
-[demo](https://washington-sigma.vercel.app/)
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[DEMO](https://washington-sigma.vercel.app/)
 
 ## Setup
 
@@ -36,4 +34,4 @@ Locally preview production build:
 pnpm preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
